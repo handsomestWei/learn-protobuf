@@ -1,5 +1,5 @@
 # learn-protobuf
-springboot整合protobuf入门
+protobuf入门。整合springboot
 
 **protobuf**与**xml**和**json**相比   
 + 优点：传输效率快；序列化后体积小适合网络传输；支持跨平台多语言。
